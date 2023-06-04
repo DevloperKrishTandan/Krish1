@@ -1,0 +1,212 @@
+body {
+    font-size: 15pt;
+}
+
+.nav-link{
+  color: gray;
+}
+
+.b1{
+  padding-top: 70px;
+  width: 220px;
+  padding-left: 0px;
+  
+}
+h1{
+  color: #5A7785;
+  padding-top: 80px;
+  position: absolute;
+  padding-left: 180px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 30px;
+}
+  ul{
+    display: flex;
+    
+  }
+.htwo{
+  color: #5A7785;
+  padding-top: 120px;
+  position: absolute;
+  padding-left: 180px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 20px;
+}
+
+.h3{
+  color: #5A7785;
+  padding-top: 154px;
+  position: absolute;
+  padding-left: 180px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 20px;
+}
+.pp{
+  color: white;
+margin-top: 190px;
+  position: absolute;
+margin-left: 180px;
+  font-family: 'Varela Round', sans-serif;
+  
+  padding: 5px 10px;
+ border: 2px solid #D39F59;
+ border-radius: 50px;
+ background-color: #D39F59;
+ font-size: 10px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.b2{
+  padding-top: 70px;
+  width: 220px;
+  padding-left: 0px;
+  float: right;
+}
+
+.hthree{
+  color:  #5A7785;
+  margin-left: 30px;
+  position: absolute;
+  margin-top: 30px;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: 100;
+}
+.ppp{
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 30px;
+  color:  #515564;
+ font-size: 15px;
+  font-family: 'Varela Round', sans-serif;
+}
+.button{
+  color: white;
+margin-top: 200px;
+  
+margin-left: 30px;
+  font-family: 'Varela Round', sans-serif;
+  
+ padding: 5px 10px;
+ border: 2px solid #D39F59;
+ border-radius: 50px;
+ background-color: #D39F59;
+ font-size: 12px;
+ float: left;
+}
+#about{
+  height: 470px;
+}
+.htwotwo{
+  font-family: 'Varela Round', sans-serif;
+}
+#services{
+  width: 100%;
+  height: 590px;
+}
+.b3{
+padding-top: 70px;
+  width: 220px;
+  padding-left: 3px;
+  float: left;
+}
+#services .card{
+  position: absolute;
+  width: 200px;
+  margin-left: 180px;
+  margin-top: 130px;
+}
+#services .btn{
+  color: white;
+  
+
+  font-family: 'Varela Round', sans-serif;
+  
+ padding: 5px 10px;
+ border: 2px solid #D39F59;
+ border-radius: 50px;
+ background-color: #D39F59;
+ font-size: 12px;
+ 
+}
+#services .card-title{
+  font-family: 'Varela Round', sans-serif;
+  
+}
+#services .card-text{
+  font-size: 8px;
+  font-family: 'Varela Round', sans-serif;
+  
+}
+
+.s4 .card{
+  width: 300px;
+  
+}
+li{
+  font-weight: lighter;
+}
+#krish{
+  width: 250px;
+  height: 250px;
+}
+.krish{
+font-family:  'Varela Round', sans-serif;
+}
+.kk{
+  font-family:  'Varela Round', sans-serif;
+  font-size: 6px;
+}
+.more{  color: white;
+  font-family: 'Varela Round', sans-serif;
+  
+ padding: 5px 10px;
+ border: 2px solid #D39F59;
+ border-radius: 50px;
+ background-color: #D39F59;
+ font-size: 12px;
+ }
+ .s4 .card{
+   border-radius: 50px;
+margin-bottom: 40px;
+ }
+ .footer{
+   width: 100%;
+   height: 70px;
+   background-color: hsla(59, 31%, 0%, 0.92);
+  
+ }
+ .my{
+   margin-top: 20px;
+margin-left: 40px;
+ }
+ .hr{
+   margin-bottom: 10px;
+ }
+ .navbar-toggler:focus{
+   border: unset;
+   outline: none;
+   box-shadow: none;
+ }
+ ul{
+   display: flex;
+   list-style: none;
+   font-family:  'Varela Round', sans-serif;
+ }
+ .l{
+   padding-top: 12px;
+ }
+ .footer{
+  height: 100px;
+  background-color: #24262b;
+}
+ion-icon{
+  padding-left: 22px;
+  
+}
+.icon{
+  padding-left: 130px;
+  margin-top: 20px;
+}
